@@ -1,5 +1,11 @@
 # Computer-Graphics-MiniProject
 
+### Moving Policeman Character
+
+##### Description:
+  Modeling a game character with some animations and music.<br>
+  By creating an armature and rigging the character to animate an idle and a running animation.
+***
 <details>
   <summary>Modelling screenshots</summary>
 <p>
